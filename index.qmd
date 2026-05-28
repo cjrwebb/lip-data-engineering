@@ -1,0 +1,17 @@
+---
+title: "Learning in Public: Data Engineering Zoomcamp"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+This website contains Dr. Calum Webb's course notes, projects, homework, and other material from self-study of the [Data Engineering Zoomcamp by the Data Talks Club](https://github.com/DataTalksClub/data-engineering-zoomcamp).
+
+
+
