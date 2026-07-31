@@ -14,6 +14,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "click>=8.4.2",
     "jupyter>=1.1.1",
     "pgcli>=4.5.0",
 ]
